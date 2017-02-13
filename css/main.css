@@ -1710,7 +1710,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #57e52b;
+  background: #d63225;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2671,7 +2671,7 @@ hr {
   margin: 0;
 }
 .posts-expand .post-tags {
-  text-align: left;
+  text-align: center;
 }
 .posts-expand .post-tags a {
   padding: 1px 5px;
@@ -2854,7 +2854,7 @@ span.inline-red {
   border-radius: 0;
   background-color: #df3e3e;
 }
-p.div-border-left-red {
+p.border-left-red {
   display: block;
   padding: 10px;
   margin: 10px 0;
@@ -2863,7 +2863,7 @@ p.div-border-left-red {
   border-radius: 3px;
   border-left-color: #df3e3e;
 }
-p.div-border-left-yellow {
+p.border-left-yellow {
   display: block;
   padding: 10px;
   margin: 10px 0;
@@ -2872,7 +2872,7 @@ p.div-border-left-yellow {
   border-radius: 3px;
   border-left-color: #f0ad4e;
 }
-p.div-border-left-green {
+p.border-left-green {
   display: block;
   padding: 10px;
   margin: 10px 0;
@@ -2881,7 +2881,7 @@ p.div-border-left-green {
   border-radius: 3px;
   border-left-color: #5cb85c;
 }
-p.div-border-left-blue {
+p.border-left-blue {
   display: block;
   padding: 10px;
   margin: 10px 0;
@@ -2890,7 +2890,7 @@ p.div-border-left-blue {
   border-radius: 3px;
   border-left-color: #2780e3;
 }
-p.div-border-left-purple {
+p.border-left-purple {
   display: block;
   padding: 10px;
   margin: 10px 0;
@@ -2899,7 +2899,7 @@ p.div-border-left-purple {
   border-radius: 3px;
   border-left-color: #9954bb;
 }
-p.div-border-right-red {
+p.border-right-red {
   display: block;
   padding: 10px;
   margin: 10px 0;
@@ -2908,7 +2908,7 @@ p.div-border-right-red {
   border-radius: 3px;
   border-right-color: #df3e3e;
 }
-p.div-border-right-yellow {
+p.border-right-yellow {
   display: block;
   padding: 10px;
   margin: 10px 0;
@@ -2917,7 +2917,7 @@ p.div-border-right-yellow {
   border-radius: 3px;
   border-right-color: #f0ad4e;
 }
-p.div-border-right-green {
+p.border-right-green {
   display: block;
   padding: 10px;
   margin: 10px 0;
@@ -2926,7 +2926,7 @@ p.div-border-right-green {
   border-radius: 3px;
   border-right-color: #5cb85c;
 }
-p.div-border-right-blue {
+p.border-right-blue {
   display: block;
   padding: 10px;
   margin: 10px 0;
@@ -2935,7 +2935,7 @@ p.div-border-right-blue {
   border-radius: 3px;
   border-right-color: #2780e3;
 }
-p.div-border-right-purple {
+p.border-right-purple {
   display: block;
   padding: 10px;
   margin: 10px 0;
@@ -2944,7 +2944,7 @@ p.div-border-right-purple {
   border-radius: 3px;
   border-right-color: #9954bb;
 }
-p.div-border-top-red {
+p.border-top-red {
   display: block;
   padding: 10px;
   margin: 10px 0;
@@ -2953,7 +2953,7 @@ p.div-border-top-red {
   border-radius: 3px;
   border-top-color: #df3e3e;
 }
-p.div-border-top-yellow {
+p.border-top-yellow {
   display: block;
   padding: 10px;
   margin: 10px 0;
@@ -2962,7 +2962,7 @@ p.div-border-top-yellow {
   border-radius: 3px;
   border-top-color: #f0ad4e;
 }
-p.div-border-top-green {
+p.border-top-green {
   display: block;
   padding: 10px;
   margin: 10px 0;
@@ -2971,7 +2971,7 @@ p.div-border-top-green {
   border-radius: 3px;
   border-top-color: #5cb85c;
 }
-p.div-border-top-blue {
+p.border-top-blue {
   display: block;
   padding: 10px;
   margin: 10px 0;
@@ -2980,7 +2980,7 @@ p.div-border-top-blue {
   border-radius: 3px;
   border-top-color: #2780e3;
 }
-p.div-border-top-purple {
+p.border-top-purple {
   display: block;
   padding: 10px;
   margin: 10px 0;
