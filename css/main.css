@@ -1710,7 +1710,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #aa861d;
+  background: #932e7d;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2988,4 +2988,63 @@ p.border-top-purple {
   border-top-width: 5px;
   border-radius: 3px;
   border-top-color: #9954bb;
+}
+p.border-bottom-red {
+  display: block;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-bottom-width: 5px;
+  border-radius: 3px;
+  border-bottom-color: #df3e3e;
+}
+p.border-bottom-yellow {
+  display: block;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-bottom-width: 5px;
+  border-radius: 3px;
+  border-bottom-color: #f0ad4e;
+}
+p.border-bottom-green {
+  display: block;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-bottom-width: 5px;
+  border-radius: 3px;
+  border-bottom-color: #5cb85c;
+}
+p.border-bottom-blue {
+  display: block;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-bottom-width: 5px;
+  border-radius: 3px;
+  border-bottom-color: #2780e3;
+}
+p.border-bottom-purple {
+  display: block;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-bottom-width: 5px;
+  border-radius: 3px;
+  border-bottom-color: #9954bb;
+}
+.post-body p a {
+  color: #0593d3;
+  border-bottom: none;
+}
+.post-body p a:hover {
+  color: #0477ab;
+  text-decoration: underline;
+}
+.link-blue {
+  color: #f36;
+}
+.link-blue:hover {
+  color: #f00;
 }
